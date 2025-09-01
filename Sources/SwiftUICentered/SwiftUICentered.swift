@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
-=======
 
 import SwiftUI
 
@@ -16,4 +14,3 @@ extension View {
         }
     }
 }
->>>>>>> ae135dd (Initial Commit)
